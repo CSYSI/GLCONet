@@ -18,7 +18,9 @@ If you are interested in our work, please do not hesitate to contact us at Sunyg
 We provide the prediction maps of the proposed GLCONet model with different backbones in the camouflaged object detection task.
 
 GLCONet-PVT [[baidu](https://pan.baidu.com/s/1IsiX9mobYGILbDnbIokQHw),PIN:a3dc] 
+
 GLCONet-ResNet [[baidu](https://pan.baidu.com/s/1vewjXA4LFTq8wvm4zUpRLA),PIN:ubg4] 
+
 GLCONet-Swin [[baidu](https://pan.baidu.com/s/1s-JqG7ITBcGUyergtnn3Og),PIN:6di4] 
 
 
