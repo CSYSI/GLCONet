@@ -43,7 +43,7 @@ If you use GLCONet method in your research or wish to refer to the baseline resu
   author={Sun, Yanguang and Xuan, Hanyu and Yang, Jian and Luo, Lei},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
   volume={}, 
-  pages={}, 
+  pages={1--14}, 
   year={2024}, 
   publisher={IEEE}, 
   note = {},
