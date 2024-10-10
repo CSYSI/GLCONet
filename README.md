@@ -1,5 +1,5 @@
 # GLCONet
-GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection 
+GLCONet: Learning Multisource Perception Representation for Camouflaged Object Detection 
 
 Our work has been accepted for TNNLS. The code is currently being organized and will be continuously updated.
 
@@ -39,7 +39,7 @@ If you use GLCONet method in your research or wish to refer to the baseline resu
 ```
 ```
 @article{GLCONet,
-  title={GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection},
+  title={GLCONet: Learning Multisource Perception Representation for Camouflaged Object Detection},
   author={Sun, Yanguang and Xuan, Hanyu and Yang, Jian and Luo, Lei},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
   volume={}, 
