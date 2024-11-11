@@ -1,7 +1,7 @@
 # GLCONet
 GLCONet: Learning Multisource Perception Representation for Camouflaged Object Detection 
 
-Our work has been accepted for TNNLS. The code is currently being organized and will be continuously updated.
+Our work has been accepted for TNNLS. The code has already been open sourced.
 
 If you are interested in our work, please do not hesitate to contact us at Sunyg@njust.edu.cn via email.
 
