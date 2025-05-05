@@ -1,4 +1,4 @@
-#[TNNLS 2024] GLCONet: Learning Multisource Perception Representation for Camouflaged Object Detection 
+# [TNNLS 2024] GLCONet: Learning Multisource Perception Representation for Camouflaged Object Detection 
 
 Our work has been accepted for TNNLS. The code has already been open sourced.
 
