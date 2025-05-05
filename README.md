@@ -1,4 +1,5 @@
 # [TNNLS 2024] GLCONet: Learning Multisource Perception Representation for Camouflaged Object Detection 
+Yanguang Sun, Hanyu Xuan, Jian Yang, Lei Luo
 
 Our work has been accepted for TNNLS. The code has already been open sourced.
 
