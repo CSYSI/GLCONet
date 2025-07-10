@@ -39,18 +39,16 @@ If you use GLCONet method in your research or wish to refer to the baseline resu
 ```
 ```
 @article{GLCONet,
-  title={GLCONet: Learning Multisource Perception Representation for Camouflaged Object Detection},
   author={Sun, Yanguang and Xuan, Hanyu and Yang, Jian and Luo, Lei},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  volume={}, 
-  pages={1--14}, 
-  year={2024}, 
-  publisher={IEEE}, 
-  note = {},
-  doi={10.1109/TNNLS.2024.3461954},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={GLCONet: Learning Multisource Perception Representation for Camouflaged Object Detection}, 
+  year={2025},
+  volume={36},
+  number={7},
+  pages={13262-13275},
+  doi={10.1109/TNNLS.2024.3461954}}
 }
 ```
-
 
 
 
